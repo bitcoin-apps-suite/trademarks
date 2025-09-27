@@ -1,0 +1,14 @@
+
+
+# Screenshots
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.tiff
+screenshot*.jpg
+screencapture*.jpg
+*Screenshot*
+Screenshot*
+*screenshot*
